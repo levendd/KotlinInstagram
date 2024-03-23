@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881842011223",
+    "project_id": "instagramclone-40894",
+    "storage_bucket": "instagramclone-40894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881842011223:android:c3e3b8205e9b9639857712",
+        "android_client_info": {
+          "package_name": "com.levojuk.kotlininstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuZP9hdteG2PPEcV5OAbVFK-goqLA4ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
